@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>MinutoSeguros.Opt.Domain</AssemblyName>
+    <RootNamespace>MinutoSeguros.Opt.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
