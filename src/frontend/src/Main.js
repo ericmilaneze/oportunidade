@@ -10,11 +10,11 @@ const Main = ({wordsInfo}) => {
     <div>
       <h1>Resultado do Desafio</h1>
 
-      <div class="ui horizontal segments">
-        <div class="ui segment">
+      <div className="ui horizontal segments">
+        <div className="ui segment">
           <TopTenWordsDisplay topTenWords={TopTenWords} />
         </div>
-        <div class="ui segment">
+        <div className="ui segment">
           <WordsPerPostDisplay wordCountPerPost={WordCountPerPost} />
         </div>
       </div>
